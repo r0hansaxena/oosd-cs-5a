@@ -1,4 +1,4 @@
-//zingle inheritance
+//single inheritance
 
 #include <iostream>
 using namespace std;
