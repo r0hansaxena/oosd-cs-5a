@@ -1,3 +1,5 @@
+//mutliple inheritance
+
 #include <iostream>
 using namespace std;
 
